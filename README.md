@@ -18,7 +18,7 @@ O projeto é composto por um único arquivo HTML que inclui a configuração do 
 1. Clone este repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/tela-de-login-tailwind.git
+git clone https://github.com/GabrielGuerreir0/LoginPageWithTailwind.git
 ```
 
 2. Navegue ate o diretorio do projeto
